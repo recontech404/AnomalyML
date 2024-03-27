@@ -30,7 +30,7 @@ So how about lookup performance? At least on my system (not the fastest single t
 
 ![model speed 1](https://github.com/recontech404/AnomalyML/blob/main/assets/model_speed_01.PNG)
 
-![model 10k] (https://github.com/recontech404/AnomalyML/blob/main/assets/model_speed_10k.PNG)
+![model 10k](https://github.com/recontech404/AnomalyML/blob/main/assets/model_speed_10k.PNG)
 
 As I mentioned above if we look at worse case with 4096 characters our prediction time goes up a fair amount (~0.00057) as does the model size (7.6MB) but still nothing crazy as I mentioned 4096 characters is not very common
 
